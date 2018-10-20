@@ -1,6 +1,6 @@
 new Vue({
-  'ele': '#app',
-  'data': {
+  ele: '#app',
+  data: {
     submissions: Seed.submissions
   }
 })
